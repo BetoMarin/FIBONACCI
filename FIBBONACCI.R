@@ -11,3 +11,5 @@ for(i in 1:(ncol(survey))) {    #for every column
 
 for (RN in c(R1:R15))
   
+  
+  #HOLA
